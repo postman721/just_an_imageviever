@@ -33,4 +33,4 @@ Scrollbars:
 
 		These appear when large enough image is opened.
 
-In addition, the programs MainWindow can be resized just normally as expected.
+In addition, the program's MainWindow can be resized just normally as expected.
