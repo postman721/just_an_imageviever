@@ -43,7 +43,7 @@ void MainWindow::keyPressEvent(QKeyEvent *events){
                                 "\n"
 
                                "This is free software, and you are welcome to redistribute it under" "\n"
-                               "GPL Version 2, June 1991. This program comes with ABSOLUTELY NO WARRANTY.");
+                               "GPL Version 2, June 1991. OR Apache License v2. This program comes with ABSOLUTELY NO WARRANTY.");
 
                                //Delete messagebox from the heap.
                                delete messagebox;
