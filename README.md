@@ -27,7 +27,7 @@ Shortkeys:
 
 		F1 info.
 
-		F3 Open a file.
+		F3 Open an image.
 
 		ESC = Quit the program.
 
