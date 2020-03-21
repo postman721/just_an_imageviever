@@ -9,7 +9,7 @@ Author: JJ Posti <techtimejourney.net>
 
 Copyright (c) 2020 JJ Posti <techtimejourney.net>
 
-This is free software, and you are welcome to redistribute it under GPL Version 3 or Apache v2 license"
+This is free software, and you are welcome to redistribute it under GPL Version 3 or Apache v2 license.
 
 ##### Features
 
